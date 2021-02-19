@@ -11,8 +11,8 @@
     "es",
     "src"
   ],
-  "repository": "git@github.com:yued-fe/webnovel-icons.git",
-  "author": "ziven27",
+  "repository": "git@github.com:yued-fe/write-web-icons.git",
+  "author": "ShineaSYR",
   "keywords": [
     "react",
     "icons",
@@ -23,9 +23,9 @@
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/yued-fe/webnovel-icons/issues"
+    "url": "https://github.com/yued-fe/write-web-icons/issues"
   },
-  "homepage": "https://github.com/yued-fe/webnovel-icons",
+  "homepage": "https://github.com/yued-fe/write-web-icons",
   "scripts": {
     "generate": "sudo rm -rf dist/ && sudo rm -rf src/dist/ && node bin/build.js",
     "build": "./node_modules/.bin/babel src/dist --out-dir dist",
