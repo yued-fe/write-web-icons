@@ -1,6 +1,6 @@
 {
   "name": "write-web-icons",
-  "version": "0.3.19",
+  "version": "0.3.20",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
   "module": "dist/index.js",
